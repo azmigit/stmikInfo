@@ -573,7 +573,6 @@ Logout
 <!-- END Breadcrumb -->
 
 <!-- view -->
-azmi
 
 <footer>
 <p>2015 © STMIK-IM Team.</p>
